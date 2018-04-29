@@ -1,4 +1,4 @@
-FROM mono:4
+FROM mono:5
 
 ENV TINI_VERSION=0.17.0
 ENV LANG=en_US.UTF-8
